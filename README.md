@@ -23,7 +23,7 @@ Simple Code Editor Using Kivy with Jedi Auto Suggestion
 
 ## 📱 Screenshots
 
-*(Add screenshots here if you want to show how it looks)*
+![KivyCodeEditor Demo](screenshot.png)
 
 ---
 
